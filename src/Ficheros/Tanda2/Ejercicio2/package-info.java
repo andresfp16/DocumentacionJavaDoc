@@ -1,1 +1,0 @@
-package Ficheros.Tanda2.Ejercicio2;
